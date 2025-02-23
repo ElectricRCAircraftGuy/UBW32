@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UBW32_MX460_v262")(type "KiCad")(uri "$(KIPRJMOD)/UBW32_MX460_v262.pretty")(options "")(descr ""))
+)
